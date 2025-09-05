@@ -20,10 +20,18 @@
 
 ## 🌍 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rubaiyat-e-mohammad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Tonmoy_Rubaiyat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:trubaiyatemohammad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Rubaiyat-E-Mohammad" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rubaiyat-e-mohammad" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Tonmoy_Rubaiyat" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" width="40" height="40" alt="Twitter"/>
+  </a>
+  <a href="mailto:trubaiyatemohammad@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Rubaiyat-E-Mohammad" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="40" height="40" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -46,41 +54,4 @@
 <p align="center">
   <!-- Streak + Trophy -->
   <img src="https://streak-stats.demolab.com?user=Rubaiyat-E-Mohammad&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Rubaiyat-E-Mohammad&theme=radical&no-frame=true&margin-w=15&margin-h=15" height="150"/>
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubaiyat-E-Mohammad&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🌟 Contribution Garden (Innovative Alternative)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/contribution-garden/main/demo.png" alt="Contribution Garden" width="80%" />
-  <br/>
-  *Hover over the trees to see your daily activity bloom!*  
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rubaiyat-E-Mohammad&theme=dracula&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## ⚡ Favorite Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
-</p>
-
----
-
-## ✨ Fun & Engagement
-- 🐱 Cat lover: 4 kittens (White, Ginger, Black Mix, Calico)  
-- 🎮 Gamer: Strategy & Puzzle games  
-- 🎵 Music: Mostly instrumental & lo-fi beats  
-- ☕ Coffee: Always brewing ☕
+  <img src="https://github-profile-trophy.vercel.app/?username=Rubaiyat-E-Mohammad&theme=radical&no-frame=true&margin-
