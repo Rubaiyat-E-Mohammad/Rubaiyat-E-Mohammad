@@ -21,18 +21,19 @@
 ## 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rubaiyat-e-mohammad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D47A1" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=0A66C2&color=0077B5&rounded=true" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Tonmoy_Rubaiyat" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0C8ED9" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Twitter&labelColor=1DA1F2&color=0C8ED9&rounded=true" alt="Twitter"/>
   </a>
   <a href="mailto:trubaiyatemohammad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B71C1C" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Gmail&labelColor=D14836&color=B71C1C&rounded=true" alt="Gmail"/>
   </a>
   <a href="https://github.com/Rubaiyat-E-Mohammad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=181717&color=000000&rounded=true" alt="GitHub"/>
   </a>
 </p>
+
 
 
 ---
