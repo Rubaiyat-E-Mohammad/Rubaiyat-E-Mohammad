@@ -38,11 +38,23 @@
 
 ## 📊 GitHub Stats Dashboard
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rubaiyat-E-Mohammad&theme=radical)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rubaiyat-E-Mohammad&theme=radical)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rubaiyat-E-Mohammad&theme=radical)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rubaiyat-E-Mohammad&theme=radical)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rubaiyat-E-Mohammad&theme=radical&utcOffset=6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rubaiyat-E-Mohammad&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaiyat-E-Mohammad&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rubaiyat-E-Mohammad&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rubaiyat-E-Mohammad&theme=radical&no-frame=true&margin-w=10" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubaiyat-E-Mohammad&theme=react-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/Rubaiyat-E-Mohammad/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
 
 
 ---
@@ -56,8 +68,9 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Rubaiyat-E-Mohammad/Rubaiyat-E-Mohammad/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/Rubaiyat-E-Mohammad/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
