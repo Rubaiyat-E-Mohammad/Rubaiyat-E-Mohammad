@@ -36,15 +36,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rubaiyat-E-Mohammad&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubaiyat-E-Mohammad&theme=radical" alt="streak"/>
-</p>
+## 📊 GitHub Stats Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaiyat-E-Mohammad&layout=compact&theme=radical" alt="languages"/>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rubaiyat-E-Mohammad&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rubaiyat-E-Mohammad&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rubaiyat-E-Mohammad&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rubaiyat-E-Mohammad&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rubaiyat-E-Mohammad&theme=radical&utcOffset=6)
+
 
 ---
 
