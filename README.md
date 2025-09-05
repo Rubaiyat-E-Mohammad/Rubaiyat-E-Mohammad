@@ -21,18 +21,19 @@
 ## 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rubaiyat-e-mohammad" target="_blank">
-    <img src="https://user-images.githubusercontent.com/placeholder/linkedin-button.png" width="140" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/your-username/buttons/main/linkedin.png" width="160" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Tonmoy_Rubaiyat" target="_blank">
-    <img src="https://user-images.githubusercontent.com/placeholder/twitter-button.png" width="140" alt="Twitter"/>
+    <img src="https://raw.githubusercontent.com/your-username/buttons/main/twitter.png" width="160" alt="Twitter"/>
   </a>
   <a href="mailto:trubaiyatemohammad@gmail.com">
-    <img src="https://user-images.githubusercontent.com/placeholder/gmail-button.png" width="140" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/your-username/buttons/main/gmail.png" width="160" alt="Gmail"/>
   </a>
   <a href="https://github.com/Rubaiyat-E-Mohammad" target="_blank">
-    <img src="https://user-images.githubusercontent.com/placeholder/github-button.png" width="140" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/your-username/buttons/main/github.png" width="160" alt="GitHub"/>
   </a>
 </p>
+
 
 
 
@@ -69,10 +70,11 @@
 
 ## 🌱 Contribution Garden
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/contribution-garden/main/demo.png" alt="Contribution Garden" width="80%" />
+  <img src="https://raw.githubusercontent.com/your-username/contribution-garden/main/garden.gif" width="80%" alt="Contribution Garden"/>
   <br/>
-  *Each plant grows with your commits! 🌿 (Hover effect interactive in live version)*
+  *Interactive contribution visualization – your commits bloom like a garden!*  
 </p>
+
 
 ---
 
