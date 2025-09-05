@@ -79,7 +79,7 @@
 
 ## ⚡ Favorite Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=I%20break%20things%20so%20users%20don’t%20have%20to.&author=QA%20Engineer" alt="QA Quote"/>
 </p>
 
 ---
