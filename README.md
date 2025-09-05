@@ -1,52 +1,68 @@
-<!-- Banner Image -->
-![Banner](https://i.ibb.co/2cM6V6S/github-banner.png)
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Rubaiyate Mohammad Banner"/>
+</p>
 
-# Hi there 👋, I'm Rubaiyate Mohammad  
-
-## 🚀 About Me  
-- 🔭 I’m currently working on **Test Automation** for **SaaS Platforms & WordPress Plugins**  
-- 🌱 Learning more about **Playwright, Docker, CI/CD**  
-- 👯 Looking to collaborate on **Software Automation & QA Projects**  
-- 💬 Ask me about **E2E Testing, API Testing, Automation Frameworks**  
-- 📫 Reach me at **rubaiyatem@gmail.com**  
-- ⚡ Fun fact: I love to break things (so they can be built better 😉)  
+<h1 align="center">Hi 👋, I'm Rubaiyat E Mohammad</h1>
+<h3 align="center">🚀 Software QA Engineer | Test Automation | SDET</h3>
 
 ---
 
-## 🌐 Connect with me  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubaiyatem@gmail.com)  
+## 🔥 About Me
+- 💼 Currently working on **Test Automation for SaaS Platforms & WordPress Plugins**  
+- 🌱 Working with **Playwright, Typescript, Docker, CI/CD**  
+- 🤝 Open to collaborate on **QA Projects, Automation Frameworks & Testing Tools**  
+- 💬 Ask me about **E2E Testing, API Testing, Test Automation**  
+- 📧 Reach me at: **trubaiyatemohammad@gmail.com**  
+- ⚡ Fun fact: *“I break things, so they can be built stronger.”*  
 
 ---
 
-## 💻 Languages and Tools  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)  
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rubaiyat-e-mohammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Tonmoy_Rubaiyat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:trubaiyatemohammad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Rubaiyate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubaiyat-E-Mohammad&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaiyat-E-Mohammad&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rubaiyat-E-Mohammad&theme=radical)  
-
----
-
-## 📈 Contribution Graph  
-[![Rubaiyate’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rubaiyat-E-Mohammad&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,wordpress,docker,github,git,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=playwright,cypress,selenium,react,nodejs,mysql,vscode,postman,jmeter" />
+</p>
 
 ---
 
-## 🏆 Achievements  
-![trophy](https://github-profile-trophy.vercel.app/?username=Rubaiyat-E-Mohammad&theme=dracula&margin-w=15&margin-h=15)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rubaiyat-E-Mohammad&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubaiyat-E-Mohammad&theme=radical" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaiyat-E-Mohammad&layout=compact&theme=radical" alt="languages"/>
+</p>
 
 ---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rubaiyat-E-Mohammad&theme=dracula&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Rubaiyat-E-Mohammad/Rubaiyat-E-Mohammad/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## ⚡ Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
