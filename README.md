@@ -52,6 +52,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubaiyat-E-Mohammad&theme=react-dark&hide_border=true"/>
 </p>
 
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/Rubaiyat-E-Mohammad/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
@@ -62,13 +63,6 @@
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rubaiyat-E-Mohammad&theme=dracula&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/Rubaiyat-E-Mohammad/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 
