@@ -21,22 +21,18 @@
 ## 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rubaiyat-e-mohammad" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-username/buttons/main/linkedin.png" width="160" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/github-buttons/main/linkedin.png" width="150" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Tonmoy_Rubaiyat" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-username/buttons/main/twitter.png" width="160" alt="Twitter"/>
+    <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/github-buttons/main/twitter.png" width="150" alt="Twitter"/>
   </a>
   <a href="mailto:trubaiyatemohammad@gmail.com">
-    <img src="https://raw.githubusercontent.com/your-username/buttons/main/gmail.png" width="160" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/github-buttons/main/gmail.png" width="150" alt="Gmail"/>
   </a>
   <a href="https://github.com/Rubaiyat-E-Mohammad" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-username/buttons/main/github.png" width="160" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/github-buttons/main/github.png" width="150" alt="GitHub"/>
   </a>
 </p>
-
-
-
-
 
 ---
 
@@ -48,24 +44,28 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rubaiyat-E-Mohammad&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaiyat-E-Mohammad&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <!-- Streak + Trophy -->
   <img src="https://streak-stats.demolab.com?user=Rubaiyat-E-Mohammad&theme=radical&hide_border=true" height="150"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Rubaiyat-E-Mohammad&theme=radical&no-frame=true&margin-w=15&margin-h=15" height="150"/>
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubaiyat-E-Mohammad&theme=react-dark&hide_border=true" />
 </p>
 
+---
+
+## 🌱 Contribution Garden
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/contribution-garden/main/garden.gif" width="80%" alt="Contribution Garden"/>
+  <br/>
+  *Interactive contribution visualization – your commits bloom like a garden!*  
+</p>
 
 ---
 
@@ -83,6 +83,6 @@
 
 ---
 
-## ✨ Fun & Hobbies
+## ✨ Fun & Hobbies 
 - 🎵 Music: Mostly instrumental & lo-fi beats  
 - ☕ Coffee: Always brewing ☕
