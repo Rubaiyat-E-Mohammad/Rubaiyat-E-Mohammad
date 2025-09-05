@@ -66,15 +66,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubaiyat-E-Mohammad&theme=react-dark&hide_border=true" />
 </p>
 
----
-
-## 🌱 Contribution Garden
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/contribution-garden/main/garden.gif" width="80%" alt="Contribution Garden"/>
-  <br/>
-  *Interactive contribution visualization – your commits bloom like a garden!*  
-</p>
-
 
 ---
 
@@ -93,7 +84,5 @@
 ---
 
 ## ✨ Fun & Hobbies
-- 🐱 Cat lover: 4 kittens (White, Ginger, Black Mix, Calico)  
-- 🎮 Gamer: Strategy & Puzzle games  
 - 🎵 Music: Mostly instrumental & lo-fi beats  
 - ☕ Coffee: Always brewing ☕
