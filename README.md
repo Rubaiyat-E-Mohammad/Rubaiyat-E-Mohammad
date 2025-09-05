@@ -21,18 +21,19 @@
 ## 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rubaiyat-e-mohammad" target="_blank">
-    <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/github-buttons/main/linkedin.png" width="150" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&borderRadius=20" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Tonmoy_Rubaiyat" target="_blank">
-    <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/github-buttons/main/twitter.png" width="150" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2&borderRadius=20" alt="X"/>
   </a>
   <a href="mailto:trubaiyatemohammad@gmail.com">
-    <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/github-buttons/main/gmail.png" width="150" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&borderRadius=20" alt="Gmail"/>
   </a>
   <a href="https://github.com/Rubaiyat-E-Mohammad" target="_blank">
-    <img src="https://raw.githubusercontent.com/Rubaiyat-E-Mohammad/github-buttons/main/github.png" width="150" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&borderRadius=20" alt="GitHub"/>
   </a>
 </p>
+
 
 ---
 
