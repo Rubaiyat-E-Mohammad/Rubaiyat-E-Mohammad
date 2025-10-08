@@ -1,8 +1,8 @@
 name: GitHub Profile Summary Cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Update daily
+  # schedule:
+  #   - cron: "0 0 * * *" # Update daily
   workflow_dispatch:
 
 jobs:
